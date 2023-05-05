@@ -1,5 +1,4 @@
 # word-typing
-# Speed Typing Master Game
 
 Game to beat the clock by typing random words
 
